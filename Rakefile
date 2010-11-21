@@ -5,11 +5,11 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "vapor"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{Minimalist Ruby library inspired in vapor.js}
+    gem.description = %Q{All awesomest in one library}
     gem.email = "guilleiguaran@gmail.com"
     gem.homepage = "http://github.com/guilleiguaran/vapor"
-    gem.authors = ["Guillermo"]
+    gem.authors = ["Guillermo Iguaran"]
     gem.add_development_dependency "thoughtbot-shoulda", ">= 0"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
