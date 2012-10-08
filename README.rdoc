@@ -1,6 +1,6 @@
 = vapor
 
-Description goes here.
+The World's Smallest & Fastest Ruby Library
 
 == Note on Patches/Pull Requests
  
